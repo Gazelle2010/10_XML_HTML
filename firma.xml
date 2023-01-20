@@ -1,0 +1,22 @@
+<firma>
+        <Abteilungen>
+                <buchhaltung>
+                        <mitarbeiter>
+                                <Lehmann></Lehmann>
+                        </mitarbeiter>
+                </buchhaltung>
+                <produktion>
+                        <mitarbeiter>
+                                <Breitner></Breitner>
+                                <Paul></Paul>
+                                <Degen></Degen>
+                        </mitarbeiter>
+                </produktion>
+                <Vertrieb>
+                        <mitarbeiter>
+                                <Schulz></Schulz>
+                                <Meier></Meier>
+                        </mitarbeiter>
+                </Vertrieb>
+        </Abteilungen>
+</firma>
